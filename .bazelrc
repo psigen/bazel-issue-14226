@@ -1,0 +1,2 @@
+common --experimental_use_hermetic_linux_sandbox
+common --sandbox_add_mount_pair "/:/"
